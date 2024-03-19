@@ -10,6 +10,7 @@ function App() {
     <>
       <h1>Netlify Cli For the First Time </h1>
       <h2>After Deployment Commit [ Commit ID - nw2n9eek ]</h2>
+      <p>It Means the Changes We Will Made In The Project Are Reflected Automeatically </p>
     </>
   )
 }
